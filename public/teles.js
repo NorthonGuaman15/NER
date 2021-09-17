@@ -159,8 +159,8 @@ function drawChart1(a) {
   }
   var data1 = google.visualization.arrayToDataTable([
     ['Label', 'Value'],
-    ['Eje X', i],
-    ['Eje Z', j],
+    ['Eje Z', i],
+    ['Eje X', j],
   ]);
 
   var options1 = {
